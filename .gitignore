@@ -1,0 +1,11 @@
+# Backup files
+*~
+
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+# Undo-tree save-files
+*.~undo-tree
