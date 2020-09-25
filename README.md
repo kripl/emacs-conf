@@ -1,2 +1,2 @@
 package install:
-	solarized-theme,
+	solarized-theme, emmet,
